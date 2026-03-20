@@ -1,6 +1,6 @@
 # Mochary Method Skills
 
-AI agent skills based on [Matt Mochary's](https://docs.mocharymethod.com) coaching frameworks. Built for [OpenClaw](https://github.com/openclaw/openclaw) and compatible AI agent platforms.
+AI agent skills based on [Matt Mochary's](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/edit?tab=t.0) coaching frameworks. Built for [OpenClaw](https://github.com/openclaw/openclaw) and compatible AI agent platforms.
 
 ## Skills
 
