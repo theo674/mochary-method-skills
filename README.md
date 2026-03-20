@@ -11,6 +11,7 @@ AI agent skills based on [Matt Mochary's](https://docs.mocharymethod.com) coachi
 | **[decision-making](decision-making/)** | 7 frameworks: separate decision/implementation, buy-in methods, IPS, Type 1/2, RAPID, "I intend to...", loudest voice |
 | **[accountability](accountability/)** | 8 frameworks: agreement trackers, DRIs, clean escalation, first 2 minutes, AORs, OKRs, accountability partners, goals |
 | **[ceo-role](ceo-role/)** | Mission/vision/values, Top Goal, CEO role definition, Zone of Genius, Exec Ops (Chief of Staff) |
+| **[goals](goals/)** | Goal creation, input-based actions, bias to action (first 2 minutes), structured weekly reviews, coaching anti-patterns |
 
 ## Structure
 
